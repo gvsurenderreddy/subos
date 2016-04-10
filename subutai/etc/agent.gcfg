@@ -29,6 +29,7 @@ pass = root
 db = metrics
 
 [template]
+repo = subutai
 version = 4.0.0
 branch = dev
 arch = amd64
